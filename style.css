@@ -1,4 +1,7 @@
-a { color:blue;
-
-
+a { 
+	color:blue;
+}
+.main{
+	width: 250px;
+	height: 100px;
 }
